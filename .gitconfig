@@ -1,0 +1,11 @@
+[user]
+	name = pato
+	email = patotoma@gmail.com
+[alias]
+	s = status
+	c = commit
+	ll = log --pretty=oneline --abbrev-commit
+	p = push
+	aa = add -A
+[push]
+	default = simple

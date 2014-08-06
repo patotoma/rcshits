@@ -1,0 +1,7 @@
+linters:
+  ColorKeyword:
+    enabled: false
+
+  SelectorDepth:
+    enabled: false
+    max_depth: 3

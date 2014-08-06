@@ -1,0 +1,16 @@
+{
+  "strict": true,
+  "undef": true,
+  "unused": true,
+  "predef": [ 
+    "angular",
+    "describe",
+    "beforeEach",
+    "afterEach",
+    "module",
+    "it",
+    "inject",
+    "expect"
+  ],
+  "globalstrict": true
+}
