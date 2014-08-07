@@ -13,7 +13,9 @@
     "expect",
     "browser",
     "element",
-    "by"
+    "by",
+    "xdescribe",
+    "xit"
   ],
   "globalstrict": true
 }
