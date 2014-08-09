@@ -4,6 +4,10 @@
   "unused": true,
   "predef": [ 
     "angular",
+    "document",
+    "console",
+    "alert",
+    "angular",
     "describe",
     "beforeEach",
     "afterEach",
@@ -15,7 +19,8 @@
     "element",
     "by",
     "xdescribe",
-    "xit"
+    "xit",
+    "localStorage"
   ],
   "globalstrict": true
 }
