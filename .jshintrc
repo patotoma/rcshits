@@ -1,5 +1,5 @@
 {
-  "strict": true,
+  "strict": false,
   "undef": true,
   "unused": true,
   "predef": [ 
@@ -20,7 +20,8 @@
     "by",
     "xdescribe",
     "xit",
-    "localStorage"
+    "localStorage",
+    "spyOn"
   ],
   "globalstrict": true
 }

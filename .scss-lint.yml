@@ -2,6 +2,21 @@ linters:
   ColorKeyword:
     enabled: false
 
+  EmptyLineBetweenBlocks:
+    enabled: false
+
+  HexNotation:
+    enabled: false
+
+  StringQuotes:
+    enabled: false
+
+  LeadingZero:
+    enabled: false
+
   SelectorDepth:
     enabled: false
     max_depth: 3
+
+  PropertySortOrder:
+    enabled: false
